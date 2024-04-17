@@ -1,0 +1,6 @@
+get{
+{token}
+}
+post {
+{token}
+}
